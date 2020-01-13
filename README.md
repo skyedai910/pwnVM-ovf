@@ -19,7 +19,7 @@ OS：Ubuntu16.04 64位
 
 ## 食用方法
 
-首先点击[这里]()下载压缩包
+首先点击[这里](https://skye231-my.sharepoint.com/:u:/g/personal/skye_mrskye_cn/EYk1Uo5GspdEpXo4DY3lnEYBfE68dLvuRwF41tFn_E0QMA?e=dNUKl9)下载压缩包
 
 解压后，将 ``Ubuntu.ovf``用VMware打开
 
@@ -221,7 +221,7 @@ sudo apt-get -y install lib32z1 lib32ncurses5
 
 * [pwn enviroment](<https://www.jianshu.com/p/1476f38e3aa3>		)
 
-* [pwn环境搭建]([https://carlstar.club/2018/09/03/pwn%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/#%E5%AE%89%E8%A3%85libcdatabase](https://carlstar.club/2018/09/03/pwn环境搭建/#安装libcdatabase))
+* [pwn环境搭建](https://carlstar.club/2018/09/03/pwn环境搭建/#安装libcdatabase)
 
 * [ctf wiki](<https://wiki.x10sec.org/>)
 * <https://blog.csdn.net/lxlong89940101/article/details/94390393>
